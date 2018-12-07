@@ -1,0 +1,16 @@
+PODS:
+  - MMapUserDefault (0.1.0)
+
+DEPENDENCIES:
+  - MMapUserDefault (from `../`)
+
+EXTERNAL SOURCES:
+  MMapUserDefault:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MMapUserDefault: 88d81c8f1514f9def6a2f7848bb7cf641e4af763
+
+PODFILE CHECKSUM: 4bee043e8846803e19348381080ee798bc123d17
+
+COCOAPODS: 1.5.3

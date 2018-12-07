@@ -1,0 +1,6 @@
+framework module MMapUserDefault {
+  umbrella header "MMapUserDefault-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -9,6 +9,11 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+```objc
+MMapUserDefault *userDefault = [MMapUserDefault shared];
+//方法同NSUserDefaults
+```
+
 ## Requirements
 
 ## Installation
