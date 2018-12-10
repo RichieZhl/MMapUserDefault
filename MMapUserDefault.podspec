@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MMapUserDefault'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of MMapUserDefault.'
 
   s.description      = <<-DESC
@@ -23,6 +23,5 @@ MMapUserDefault用来取代NSUserDefaults
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'MMapUserDefault/Classes/**/*'
-  s.public_header_files = 'MMapUserDefault/Classes/MMapUserDefault.h'
 
 end
